@@ -129,8 +129,6 @@ Push to the branch: git push origin feature-name
 
 Create a Pull Request
 
-🛡️ License
-This project is licensed under the MIT License © 2025 Ajay Kumawat
 
 💬 Acknowledgements
 Cloudinary
